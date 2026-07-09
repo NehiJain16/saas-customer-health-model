@@ -116,7 +116,7 @@ assets/ → dashboard screenshots
 
 
 ## Author
-**Nehi Jain** - [\[LinkedIn\]](https://www.linkedin.com/in/nehijain/) • [nehijain16@gmail.com]
+**Nehi Jain** - [\LinkedIn\](https://www.linkedin.com/in/nehijain/) • [\Email\](nehijain16@gmail.com)
 *Product focused Analyst Building analytics that drive business decisions*
 
 
