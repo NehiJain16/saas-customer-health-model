@@ -86,7 +86,7 @@ Python (pandas, scikit-learn, scipy) • Power BI • DAX
 
 ```bash
 # 1. Install dependencies 
-pip install- requirements.txt`
+pip install -r requirements.txt
 # 2.Generate the synthetic dataset 
 python scripts/generate_data.py
 # 3. Build the health score + features 
@@ -116,7 +116,7 @@ assets/ → dashboard screenshots
 
 
 ## Author
-**[Nehi Jain]**-[https://www.linkedin.com/in/nehijain/]•[nehijain16@gmail.com]
+**[Nehi Jain]** - [LinkedIn] • [nehijain16@gmail.com]
 *Product focused Analyst Building analytics that drive business decisions*
 
 
