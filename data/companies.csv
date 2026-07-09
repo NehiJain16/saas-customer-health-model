@@ -1,0 +1,501 @@
+company_id,company_name,industry,company_size,region,plan_tier,seats_licensed,mrr,signup_date,is_churned,churn_month
+CUST_0001,Pulse Networks,EdTech,SMB,East,Basic,38,12356,2024-10-01,0,
+CUST_0002,Zenith Pvt Ltd,Healthcare,SMB,South,Basic,33,8839,2023-04-01,1,2023-07-01
+CUST_0003,Prime Networks,Healthcare,SMB,West,Pro,30,18602,2024-01-01,0,
+CUST_0004,Pulse Solutions,Healthcare,SMB,North,Pro,12,7589,2023-10-01,1,2024-04-01
+CUST_0005,Drift Industries,Healthcare,Enterprise,North,Pro,442,226690,2023-03-01,0,
+CUST_0006,Nova Solutions,IT Services,Mid,South,Enterprise,85,94618,2023-09-01,1,2024-01-01
+CUST_0007,Zenith Networks,IT Services,SMB,West,Basic,13,4449,2024-01-01,1,2024-09-01
+CUST_0008,Onyx Solutions,BFSI,Mid,North,Pro,98,60042,2023-09-01,0,
+CUST_0009,Acme Enterprises,BFSI,Mid,North,Pro,174,98019,2024-02-01,0,
+CUST_0010,Quanta Logistics,EdTech,Mid,North,Basic,186,61080,2024-06-01,0,
+CUST_0011,Zenith Technologies,BFSI,Mid,East,Enterprise,91,120667,2024-01-01,0,
+CUST_0012,Acme Logistics,Manufacturing,Mid,East,Pro,87,54354,2023-04-01,0,
+CUST_0013,Pulse Enterprises,BFSI,Mid,East,Pro,51,28176,2024-03-01,0,
+CUST_0014,Drift Retail,IT Services,SMB,North,Basic,22,7383,2024-06-01,0,
+CUST_0015,Echo0 Systems,Healthcare,SMB,South,Pro,24,13228,2023-08-01,0,
+CUST_0016,Bharat Retail,IT Services,Mid,South,Pro,112,74688,2024-01-01,0,
+CUST_0017,Drift Enterprises,EdTech,Mid,East,Pro,142,95598,2023-02-01,0,
+CUST_0018,Bright Pvt Ltd,BFSI,SMB,East,Basic,36,9899,2024-08-01,0,
+CUST_0019,Drift Industries,Logistics,SMB,East,Basic,41,11945,2024-06-01,0,
+CUST_0020,Orbit Technologies,Retail,SMB,East,Basic,26,8915,2024-11-01,0,
+CUST_0021,Nova Industries,EdTech,Mid,West,Pro,103,70803,2024-12-01,0,
+CUST_0022,Indus Technologies,Retail,SMB,West,Basic,47,14659,2023-07-01,0,
+CUST_0023,Echo0 Networks,EdTech,Mid,East,Enterprise,143,162640,2023-05-01,0,
+CUST_0024,Pulse Solutions,Retail,SMB,East,Basic,41,13925,2023-09-01,1,2024-08-01
+CUST_0025,Apex Industries,Healthcare,SMB,West,Basic,34,10326,2023-11-01,1,2024-02-01
+CUST_0026,Orbit Labs,EdTech,Mid,East,Pro,110,75825,2024-01-01,0,
+CUST_0027,Acme Pvt Ltd,Healthcare,SMB,East,Pro,44,29145,2024-09-01,0,
+CUST_0028,Crest Solutions,Logistics,Enterprise,South,Enterprise,304,311086,2023-04-01,0,
+CUST_0029,Onyx Retail,BFSI,SMB,East,Basic,50,12831,2024-03-01,1,2024-05-01
+CUST_0030,Sankalp Systems,IT Services,Mid,North,Pro,83,49931,2024-11-01,0,
+CUST_0031,Vega Technologies,Manufacturing,SMB,West,Pro,17,11102,2023-02-01,0,
+CUST_0032,Bharat Labs,IT Services,Mid,East,Pro,197,127722,2024-06-01,0,
+CUST_0033,Apex Technologies,Healthcare,Mid,East,Enterprise,87,102150,2024-10-01,0,
+CUST_0034,Bright Systems,Logistics,SMB,East,Pro,41,23248,2024-07-01,0,
+CUST_0035,Zenith Networks,Logistics,Mid,South,Pro,74,46679,2024-12-01,0,
+CUST_0036,Apex Solutions,Retail,Mid,West,Pro,187,107470,2023-11-01,0,
+CUST_0037,Onyx Logistics,BFSI,Enterprise,East,Enterprise,236,295940,2024-03-01,1,2024-08-01
+CUST_0038,Prime Retail,Logistics,SMB,South,Basic,11,3470,2024-08-01,0,
+CUST_0039,Bharat Labs,BFSI,SMB,West,Basic,46,14917,2024-01-01,0,
+CUST_0040,Drift Solutions,Healthcare,Mid,South,Pro,166,105561,2023-09-01,0,
+CUST_0041,Orbit Networks,Manufacturing,SMB,South,Basic,26,7644,2024-12-01,0,
+CUST_0042,Vega Solutions,IT Services,Mid,South,Pro,187,97328,2023-02-01,1,2024-08-01
+CUST_0043,Apex Networks,EdTech,Mid,North,Pro,167,100701,2023-06-01,0,
+CUST_0044,Sankalp Retail,Manufacturing,SMB,West,Basic,38,9847,2024-06-01,0,
+CUST_0045,Orbit Industries,Logistics,SMB,South,Basic,35,10416,2023-02-01,0,
+CUST_0046,Acme Pvt Ltd,Manufacturing,Enterprise,North,Basic,300,86614,2024-08-01,0,
+CUST_0047,Bharat Solutions,EdTech,SMB,West,Pro,33,22438,2024-09-01,0,
+CUST_0048,Bright Solutions,Manufacturing,SMB,East,Pro,46,30253,2023-09-01,0,
+CUST_0049,Zenith Logistics,Retail,Mid,East,Pro,131,75897,2023-11-01,0,
+CUST_0050,Nova Networks,Manufacturing,SMB,North,Pro,20,12846,2024-10-01,0,
+CUST_0051,Orbit Technologies,BFSI,Mid,North,Pro,149,85967,2023-08-01,0,
+CUST_0052,Onyx Enterprises,IT Services,Mid,North,Basic,149,50098,2024-09-01,0,
+CUST_0053,Bharat Enterprises,BFSI,Enterprise,West,Pro,377,257316,2024-08-01,1,2025-01-01
+CUST_0054,Orbit Logistics,Healthcare,Enterprise,North,Enterprise,252,314360,2024-10-01,0,
+CUST_0055,Bright Networks,BFSI,Mid,South,Enterprise,103,134339,2024-02-01,0,
+CUST_0056,Crest Enterprises,Logistics,Mid,South,Pro,183,111312,2023-12-01,0,
+CUST_0057,Crest Networks,Logistics,Mid,North,Pro,57,31353,2023-10-01,0,
+CUST_0058,Drift Technologies,BFSI,Mid,East,Pro,133,88493,2024-11-01,0,
+CUST_0059,Bharat Systems,BFSI,Enterprise,East,Pro,332,211640,2024-08-01,0,
+CUST_0060,Crest Networks,Healthcare,SMB,West,Basic,28,8381,2024-02-01,0,
+CUST_0061,Prime Enterprises,Retail,Mid,South,Pro,177,114038,2024-02-01,1,2024-05-01
+CUST_0062,Indus Labs,Healthcare,SMB,East,Basic,41,11645,2024-05-01,1,2024-08-01
+CUST_0063,Acme Labs,IT Services,Mid,South,Basic,196,53804,2024-04-01,0,
+CUST_0064,Quanta Systems,Healthcare,SMB,West,Basic,32,8969,2024-05-01,0,
+CUST_0065,Crest Labs,Retail,Mid,West,Basic,58,18166,2023-09-01,0,
+CUST_0066,Onyx Logistics,Manufacturing,Enterprise,South,Pro,345,201485,2024-02-01,0,
+CUST_0067,Crest Labs,BFSI,Enterprise,West,Enterprise,456,616012,2023-11-01,0,
+CUST_0068,Prime Technologies,Logistics,SMB,North,Basic,10,3436,2023-12-01,0,
+CUST_0069,Orbit Labs,IT Services,SMB,East,Basic,10,2617,2024-06-01,0,
+CUST_0070,Sankalp Enterprises,IT Services,Mid,North,Enterprise,103,136564,2024-06-01,1,2024-08-01
+CUST_0071,Zenith Pvt Ltd,BFSI,Enterprise,South,Pro,405,270572,2023-09-01,1,2024-08-01
+CUST_0072,Bharat Labs,IT Services,SMB,South,Basic,12,3980,2024-11-01,0,
+CUST_0073,Orbit Labs,IT Services,Mid,South,Basic,195,50230,2024-04-01,0,
+CUST_0074,Crest Solutions,Logistics,Mid,South,Basic,153,39215,2023-07-01,0,
+CUST_0075,Bright Logistics,Retail,Mid,North,Pro,102,60298,2024-04-01,0,
+CUST_0076,Orbit Solutions,IT Services,Mid,North,Enterprise,188,225066,2024-09-01,0,
+CUST_0077,Onyx Systems,Healthcare,SMB,West,Basic,20,5331,2024-12-01,0,
+CUST_0078,Echo0 Logistics,Manufacturing,Mid,North,Enterprise,75,89296,2024-07-01,0,
+CUST_0079,Bharat Networks,IT Services,SMB,South,Basic,31,8241,2023-10-01,0,
+CUST_0080,Vega Pvt Ltd,IT Services,SMB,East,Pro,35,18097,2024-04-01,0,
+CUST_0081,Prime Logistics,Manufacturing,Enterprise,West,Basic,261,86951,2023-09-01,0,
+CUST_0082,Zenith Networks,IT Services,SMB,East,Basic,31,10025,2024-03-01,0,
+CUST_0083,Vega Solutions,Logistics,SMB,South,Pro,16,10591,2023-12-01,0,
+CUST_0084,Pulse Enterprises,Retail,Mid,East,Basic,65,20888,2023-11-01,1,2024-02-01
+CUST_0085,Bright Logistics,Retail,SMB,North,Pro,34,20972,2023-05-01,0,
+CUST_0086,Quanta Technologies,Healthcare,SMB,East,Basic,45,13851,2023-09-01,1,2024-05-01
+CUST_0087,Lotus Systems,Manufacturing,SMB,North,Basic,46,14404,2023-03-01,0,
+CUST_0088,Nova Pvt Ltd,BFSI,SMB,North,Basic,31,8924,2024-05-01,0,
+CUST_0089,Zenith Retail,Healthcare,SMB,East,Basic,40,13736,2023-07-01,1,2024-11-01
+CUST_0090,Echo0 Enterprises,Logistics,Enterprise,East,Enterprise,334,399687,2023-07-01,0,
+CUST_0091,Nova Logistics,Healthcare,Mid,North,Pro,76,49286,2023-07-01,0,
+CUST_0092,Orbit Retail,Manufacturing,Mid,East,Basic,190,58891,2023-07-01,1,2023-09-01
+CUST_0093,Bright Solutions,Manufacturing,Mid,West,Pro,184,98291,2024-12-01,0,
+CUST_0094,Indus Pvt Ltd,IT Services,Mid,East,Basic,115,29353,2023-10-01,1,2024-09-01
+CUST_0095,Crest Labs,EdTech,Mid,North,Enterprise,145,191258,2024-01-01,0,
+CUST_0096,Quanta Enterprises,Manufacturing,SMB,South,Basic,44,14154,2024-11-01,0,
+CUST_0097,Nova Enterprises,Manufacturing,Mid,South,Basic,85,27906,2024-03-01,0,
+CUST_0098,Vertex Technologies,BFSI,SMB,East,Basic,49,15642,2024-08-01,0,
+CUST_0099,Quanta Pvt Ltd,EdTech,Mid,East,Enterprise,195,225849,2024-03-01,0,
+CUST_0100,Drift Technologies,Healthcare,SMB,South,Basic,15,4811,2023-11-01,0,
+CUST_0101,Acme Retail,IT Services,Enterprise,South,Pro,357,202101,2023-06-01,0,
+CUST_0102,Vega Retail,Manufacturing,Mid,West,Enterprise,173,182869,2024-02-01,0,
+CUST_0103,Nova Solutions,EdTech,Mid,East,Enterprise,65,69808,2024-04-01,0,
+CUST_0104,Indus Networks,IT Services,Mid,South,Pro,86,53132,2024-09-01,0,
+CUST_0105,Quanta Solutions,Retail,SMB,North,Pro,35,18816,2024-02-01,1,2024-10-01
+CUST_0106,Orbit Pvt Ltd,BFSI,SMB,South,Basic,21,7091,2023-06-01,0,
+CUST_0107,Quanta Enterprises,IT Services,Mid,East,Pro,81,47493,2024-03-01,0,
+CUST_0108,Acme Systems,BFSI,SMB,East,Enterprise,46,60812,2024-11-01,0,
+CUST_0109,Drift Enterprises,Manufacturing,Mid,South,Pro,199,128149,2023-11-01,0,
+CUST_0110,Crest Solutions,EdTech,SMB,North,Pro,34,22988,2023-08-01,0,
+CUST_0111,Drift Systems,Manufacturing,Mid,West,Enterprise,158,175279,2023-08-01,0,
+CUST_0112,Prime Industries,Retail,SMB,West,Basic,38,11852,2024-07-01,0,
+CUST_0113,Prime Industries,Retail,SMB,West,Basic,29,7617,2023-09-01,1,2024-07-01
+CUST_0114,Lotus Pvt Ltd,EdTech,SMB,South,Basic,32,10463,2024-06-01,0,
+CUST_0115,Echo0 Retail,Retail,SMB,West,Basic,11,3281,2023-07-01,1,2024-02-01
+CUST_0116,Zenith Technologies,BFSI,Enterprise,East,Pro,331,184940,2024-03-01,0,
+CUST_0117,Apex Pvt Ltd,BFSI,SMB,East,Pro,16,8238,2024-12-01,0,
+CUST_0118,Echo0 Technologies,Healthcare,Mid,East,Basic,122,39893,2023-04-01,0,
+CUST_0119,Sankalp Retail,Healthcare,Mid,North,Pro,85,54400,2025-01-01,0,
+CUST_0120,Bright Industries,Retail,SMB,East,Basic,23,7720,2023-08-01,0,
+CUST_0121,Zenith Technologies,BFSI,Mid,North,Basic,162,49810,2024-07-01,0,
+CUST_0122,Orbit Labs,IT Services,SMB,West,Basic,11,2838,2024-09-01,0,
+CUST_0123,Bharat Pvt Ltd,Retail,Mid,South,Pro,103,70114,2024-11-01,0,
+CUST_0124,Crest Logistics,Retail,Mid,South,Enterprise,109,142566,2024-06-01,0,
+CUST_0125,Sankalp Retail,Logistics,Mid,South,Pro,75,40131,2023-12-01,1,2024-07-01
+CUST_0126,Bright Retail,Retail,Enterprise,South,Pro,298,152966,2024-07-01,0,
+CUST_0127,Bright Systems,Manufacturing,SMB,East,Pro,46,30330,2024-12-01,0,
+CUST_0128,Pulse Networks,Manufacturing,Enterprise,North,Enterprise,334,370827,2024-02-01,0,
+CUST_0129,Indus Technologies,EdTech,SMB,North,Pro,37,21680,2023-03-01,0,
+CUST_0130,Nova Technologies,EdTech,Mid,East,Basic,76,25105,2023-12-01,0,
+CUST_0131,Orbit Pvt Ltd,Retail,Mid,South,Pro,104,65463,2024-11-01,0,
+CUST_0132,Lotus Solutions,Retail,SMB,South,Basic,29,9591,2024-06-01,0,
+CUST_0133,Quanta Networks,Retail,SMB,East,Basic,18,5769,2023-12-01,1,2024-04-01
+CUST_0134,Zenith Logistics,Manufacturing,SMB,West,Basic,46,15736,2023-07-01,1,2025-01-01
+CUST_0135,Prime Pvt Ltd,EdTech,Mid,West,Basic,99,33711,2024-12-01,0,
+CUST_0136,Quanta Enterprises,Logistics,Mid,North,Pro,131,83133,2023-07-01,0,
+CUST_0137,Bright Industries,Retail,Mid,East,Enterprise,109,148224,2024-04-01,0,
+CUST_0138,Pulse Enterprises,EdTech,Mid,West,Enterprise,136,140381,2024-10-01,0,
+CUST_0139,Pulse Logistics,Logistics,SMB,East,Pro,32,20611,2024-09-01,0,
+CUST_0140,Lotus Solutions,EdTech,Mid,North,Pro,67,38568,2024-01-01,0,
+CUST_0141,Lotus Solutions,Retail,Mid,West,Pro,158,103445,2023-05-01,1,2024-06-01
+CUST_0142,Lotus Solutions,EdTech,SMB,East,Basic,11,3666,2024-12-01,0,
+CUST_0143,Bharat Enterprises,Healthcare,Enterprise,East,Enterprise,229,266715,2024-10-01,0,
+CUST_0144,Acme Technologies,EdTech,SMB,North,Basic,39,11423,2023-06-01,1,2024-02-01
+CUST_0145,Onyx Technologies,Manufacturing,SMB,South,Pro,39,24913,2023-06-01,0,
+CUST_0146,Orbit Labs,EdTech,SMB,West,Basic,24,7588,2024-01-01,0,
+CUST_0147,Drift Retail,EdTech,SMB,West,Basic,33,10236,2023-08-01,0,
+CUST_0148,Bright Solutions,Retail,Enterprise,South,Pro,263,173452,2024-03-01,1,2024-10-01
+CUST_0149,Vega Industries,Retail,SMB,North,Pro,12,7849,2024-11-01,0,
+CUST_0150,Crest Technologies,EdTech,Enterprise,West,Pro,441,256363,2024-07-01,0,
+CUST_0151,Nova Labs,Logistics,SMB,East,Basic,22,6673,2023-10-01,0,
+CUST_0152,Bharat Networks,Retail,Enterprise,East,Pro,323,216401,2023-03-01,0,
+CUST_0153,Vertex Pvt Ltd,EdTech,Mid,North,Pro,55,30835,2024-04-01,0,
+CUST_0154,Orbit Technologies,Logistics,SMB,West,Basic,27,7420,2024-02-01,1,2024-07-01
+CUST_0155,Quanta Technologies,IT Services,Enterprise,West,Enterprise,315,360741,2023-03-01,0,
+CUST_0156,Lotus Enterprises,Manufacturing,Mid,South,Enterprise,142,189176,2023-10-01,0,
+CUST_0157,Lotus Networks,Retail,SMB,East,Pro,36,19387,2023-12-01,0,
+CUST_0158,Nova Solutions,IT Services,Enterprise,North,Pro,360,231779,2024-07-01,0,
+CUST_0159,Stellar Technologies,BFSI,Mid,South,Basic,89,23368,2024-06-01,0,
+CUST_0160,Pulse Networks,Retail,Mid,West,Enterprise,138,147141,2024-08-01,0,
+CUST_0161,Nova Retail,Healthcare,Mid,South,Basic,110,35511,2024-11-01,0,
+CUST_0162,Acme Systems,Logistics,Enterprise,West,Enterprise,392,409344,2023-11-01,0,
+CUST_0163,Apex Retail,Manufacturing,SMB,West,Enterprise,23,31482,2023-05-01,1,2023-07-01
+CUST_0164,Indus Networks,BFSI,SMB,South,Pro,20,11538,2024-08-01,0,
+CUST_0165,Stellar Industries,BFSI,SMB,East,Enterprise,43,50457,2024-02-01,0,
+CUST_0166,Drift Systems,EdTech,Mid,East,Pro,125,65603,2024-03-01,0,
+CUST_0167,Onyx Labs,EdTech,Enterprise,West,Basic,436,139875,2024-04-01,0,
+CUST_0168,Vega Solutions,Manufacturing,SMB,East,Enterprise,14,16343,2023-07-01,0,
+CUST_0169,Onyx Pvt Ltd,Healthcare,SMB,South,Pro,34,20784,2024-01-01,0,
+CUST_0170,Crest Retail,BFSI,SMB,East,Pro,38,24653,2024-03-01,0,
+CUST_0171,Vega Enterprises,IT Services,Mid,South,Enterprise,74,91907,2024-03-01,0,
+CUST_0172,Onyx Enterprises,Healthcare,Mid,East,Pro,176,103392,2023-07-01,0,
+CUST_0173,Prime Pvt Ltd,Manufacturing,Mid,South,Pro,167,98193,2024-02-01,0,
+CUST_0174,Lotus Enterprises,Retail,Mid,West,Pro,132,81576,2023-12-01,0,
+CUST_0175,Prime Enterprises,IT Services,Mid,West,Pro,186,119941,2023-10-01,1,2024-03-01
+CUST_0176,Crest Technologies,Logistics,SMB,North,Basic,31,8870,2023-09-01,0,
+CUST_0177,Pulse Solutions,IT Services,SMB,East,Basic,22,7242,2024-11-01,0,
+CUST_0178,Quanta Logistics,EdTech,SMB,South,Basic,24,6481,2024-06-01,0,
+CUST_0179,Bharat Pvt Ltd,Logistics,Mid,West,Basic,123,37357,2024-07-01,0,
+CUST_0180,Drift Retail,IT Services,Mid,South,Pro,112,66885,2023-12-01,0,
+CUST_0181,Sankalp Solutions,IT Services,Mid,West,Pro,177,107041,2023-11-01,0,
+CUST_0182,Sankalp Retail,Manufacturing,SMB,West,Basic,22,6829,2024-08-01,1,2025-01-01
+CUST_0183,Crest Logistics,IT Services,Enterprise,North,Basic,383,103237,2023-07-01,1,2024-12-01
+CUST_0184,Vega Technologies,BFSI,Enterprise,West,Enterprise,259,282785,2023-04-01,0,
+CUST_0185,Orbit Retail,Healthcare,SMB,West,Pro,30,19310,2024-09-01,0,
+CUST_0186,Zenith Retail,Logistics,Mid,East,Enterprise,100,122832,2023-05-01,1,2024-02-01
+CUST_0187,Bharat Logistics,Manufacturing,Enterprise,South,Enterprise,462,636251,2024-11-01,0,
+CUST_0188,Onyx Industries,Logistics,Mid,West,Pro,193,125388,2023-05-01,1,2024-09-01
+CUST_0189,Stellar Systems,Healthcare,SMB,North,Basic,11,3650,2024-02-01,0,
+CUST_0190,Prime Enterprises,Retail,SMB,West,Basic,48,14801,2023-07-01,1,2024-07-01
+CUST_0191,Nova Industries,BFSI,SMB,East,Basic,46,14166,2024-01-01,1,2024-11-01
+CUST_0192,Bharat Enterprises,Retail,SMB,North,Basic,12,3417,2023-11-01,0,
+CUST_0193,Indus Labs,BFSI,SMB,North,Pro,21,11341,2024-09-01,0,
+CUST_0194,Vega Systems,Healthcare,Mid,East,Enterprise,99,129694,2024-04-01,0,
+CUST_0195,Acme Industries,EdTech,SMB,South,Basic,23,6964,2024-09-01,0,
+CUST_0196,Bright Retail,Manufacturing,SMB,South,Basic,14,4306,2024-01-01,1,2024-10-01
+CUST_0197,Vega Solutions,BFSI,Enterprise,West,Basic,499,141756,2023-08-01,1,2023-10-01
+CUST_0198,Bright Industries,Logistics,Mid,North,Basic,178,47689,2024-07-01,0,
+CUST_0199,Vega Solutions,Retail,SMB,East,Basic,17,4693,2024-04-01,0,
+CUST_0200,Quanta Technologies,Healthcare,Enterprise,East,Pro,314,207101,2024-04-01,0,
+CUST_0201,Onyx Labs,Retail,Enterprise,South,Enterprise,489,664411,2024-03-01,0,
+CUST_0202,Acme Enterprises,Retail,SMB,West,Enterprise,11,11410,2023-10-01,0,
+CUST_0203,Vertex Retail,IT Services,Mid,East,Pro,127,67264,2023-03-01,0,
+CUST_0204,Indus Technologies,IT Services,Mid,South,Enterprise,132,149713,2024-02-01,0,
+CUST_0205,Echo0 Enterprises,Retail,Mid,North,Pro,193,119615,2024-04-01,0,
+CUST_0206,Quanta Networks,Logistics,Mid,South,Pro,85,44469,2023-04-01,0,
+CUST_0207,Bharat Labs,Logistics,Mid,West,Enterprise,135,162927,2023-07-01,0,
+CUST_0208,Vertex Solutions,Healthcare,Mid,East,Pro,94,54612,2024-12-01,0,
+CUST_0209,Vega Enterprises,Healthcare,Mid,East,Basic,71,18153,2024-04-01,0,
+CUST_0210,Sankalp Retail,Manufacturing,SMB,West,Pro,13,7452,2023-03-01,0,
+CUST_0211,Zenith Technologies,Manufacturing,Mid,West,Pro,85,44721,2024-07-01,0,
+CUST_0212,Pulse Industries,BFSI,Mid,West,Basic,144,45547,2023-11-01,0,
+CUST_0213,Pulse Systems,Retail,Mid,West,Enterprise,92,107900,2024-11-01,0,
+CUST_0214,Stellar Networks,Retail,SMB,East,Pro,22,14463,2024-11-01,0,
+CUST_0215,Onyx Technologies,Logistics,Mid,East,Pro,172,115766,2025-01-01,0,
+CUST_0216,Bright Enterprises,Logistics,Mid,East,Pro,100,66321,2023-08-01,1,2023-11-01
+CUST_0217,Acme Industries,Manufacturing,Mid,North,Basic,119,38236,2023-03-01,1,2024-11-01
+CUST_0218,Bright Enterprises,IT Services,SMB,North,Pro,46,28486,2023-12-01,0,
+CUST_0219,Apex Networks,IT Services,Mid,North,Pro,52,32108,2024-07-01,0,
+CUST_0220,Bright Industries,Manufacturing,Mid,South,Basic,74,19563,2023-07-01,0,
+CUST_0221,Acme Systems,Retail,SMB,East,Pro,46,25048,2023-09-01,0,
+CUST_0222,Quanta Systems,Logistics,SMB,East,Pro,11,5748,2024-10-01,0,
+CUST_0223,Bharat Solutions,IT Services,Mid,North,Pro,175,95245,2023-03-01,1,2024-09-01
+CUST_0224,Orbit Enterprises,BFSI,Enterprise,West,Pro,486,298639,2023-05-01,0,
+CUST_0225,Onyx Pvt Ltd,Healthcare,SMB,East,Basic,39,12599,2024-06-01,0,
+CUST_0226,Orbit Retail,Healthcare,Enterprise,North,Pro,437,299497,2024-11-01,0,
+CUST_0227,Pulse Technologies,Manufacturing,Mid,West,Basic,199,55348,2023-09-01,0,
+CUST_0228,Zenith Enterprises,Manufacturing,Mid,South,Basic,192,52888,2024-02-01,0,
+CUST_0229,Vertex Logistics,IT Services,Enterprise,East,Pro,380,258259,2024-07-01,0,
+CUST_0230,Prime Networks,IT Services,Mid,South,Enterprise,110,120457,2024-04-01,1,2025-01-01
+CUST_0231,Stellar Labs,EdTech,Mid,South,Basic,184,50430,2024-03-01,0,
+CUST_0232,Zenith Enterprises,Manufacturing,SMB,South,Basic,44,15083,2023-11-01,1,2024-01-01
+CUST_0233,Sankalp Retail,EdTech,SMB,East,Basic,40,12382,2024-11-01,0,
+CUST_0234,Zenith Retail,Retail,SMB,East,Pro,34,18085,2024-10-01,0,
+CUST_0235,Sankalp Retail,Logistics,Enterprise,North,Enterprise,212,249248,2024-02-01,0,
+CUST_0236,Echo0 Logistics,Manufacturing,SMB,East,Basic,15,3848,2023-03-01,0,
+CUST_0237,Vega Enterprises,BFSI,SMB,East,Basic,34,11714,2025-01-01,0,
+CUST_0238,Pulse Technologies,Healthcare,SMB,West,Basic,30,8468,2024-08-01,1,2024-11-01
+CUST_0239,Nova Systems,BFSI,Enterprise,South,Pro,473,260029,2024-09-01,0,
+CUST_0240,Pulse Labs,Manufacturing,SMB,South,Basic,44,12859,2024-03-01,0,
+CUST_0241,Vertex Labs,Logistics,Enterprise,East,Enterprise,383,457027,2024-11-01,0,
+CUST_0242,Lotus Labs,Manufacturing,SMB,South,Pro,48,27275,2024-07-01,0,
+CUST_0243,Drift Industries,Manufacturing,SMB,South,Basic,41,10859,2023-12-01,1,2024-04-01
+CUST_0244,Apex Enterprises,Manufacturing,SMB,West,Basic,43,13818,2023-09-01,1,2025-01-01
+CUST_0245,Prime Pvt Ltd,Retail,Enterprise,North,Enterprise,242,324558,2023-10-01,0,
+CUST_0246,Quanta Labs,Healthcare,Mid,East,Basic,110,30815,2024-07-01,0,
+CUST_0247,Prime Industries,Manufacturing,SMB,East,Pro,17,10618,2024-04-01,0,
+CUST_0248,Indus Technologies,Manufacturing,SMB,East,Basic,10,2593,2023-09-01,1,2024-01-01
+CUST_0249,Sankalp Retail,EdTech,SMB,West,Basic,33,9925,2023-09-01,0,
+CUST_0250,Orbit Systems,Logistics,Mid,South,Enterprise,185,212332,2023-06-01,0,
+CUST_0251,Stellar Solutions,BFSI,SMB,South,Pro,37,24081,2023-09-01,0,
+CUST_0252,Crest Networks,Manufacturing,SMB,West,Pro,45,29224,2023-10-01,1,2024-11-01
+CUST_0253,Zenith Networks,BFSI,SMB,North,Basic,49,14638,2024-05-01,0,
+CUST_0254,Crest Systems,Healthcare,Enterprise,South,Pro,383,221250,2024-03-01,0,
+CUST_0255,Apex Networks,IT Services,Enterprise,East,Pro,372,249108,2025-01-01,0,
+CUST_0256,Quanta Pvt Ltd,IT Services,Enterprise,East,Enterprise,468,519857,2024-02-01,0,
+CUST_0257,Lotus Solutions,Logistics,SMB,North,Basic,41,12466,2023-12-01,1,2024-06-01
+CUST_0258,Bharat Systems,EdTech,Mid,North,Enterprise,77,92078,2024-12-01,0,
+CUST_0259,Bharat Enterprises,Manufacturing,Mid,East,Pro,53,32420,2023-08-01,0,
+CUST_0260,Acme Retail,EdTech,SMB,West,Pro,25,16087,2023-04-01,1,2024-10-01
+CUST_0261,Stellar Enterprises,Healthcare,Enterprise,West,Enterprise,210,275822,2023-03-01,0,
+CUST_0262,Sankalp Enterprises,Logistics,SMB,North,Pro,35,23095,2024-03-01,0,
+CUST_0263,Echo0 Labs,Logistics,SMB,West,Pro,20,13231,2023-07-01,0,
+CUST_0264,Orbit Systems,Manufacturing,SMB,South,Pro,13,8703,2023-04-01,1,2024-06-01
+CUST_0265,Drift Technologies,BFSI,Mid,East,Basic,199,53733,2024-02-01,0,
+CUST_0266,Drift Retail,IT Services,SMB,West,Pro,23,12161,2024-12-01,0,
+CUST_0267,Prime Logistics,IT Services,Mid,West,Pro,132,67864,2024-08-01,0,
+CUST_0268,Echo0 Retail,IT Services,SMB,East,Enterprise,39,42726,2023-05-01,0,
+CUST_0269,Indus Enterprises,Healthcare,Mid,South,Pro,196,102166,2024-04-01,0,
+CUST_0270,Vega Systems,BFSI,Mid,South,Pro,195,116865,2024-04-01,0,
+CUST_0271,Bright Solutions,EdTech,Mid,North,Pro,153,94217,2024-09-01,1,2024-12-01
+CUST_0272,Lotus Logistics,Manufacturing,Mid,East,Enterprise,144,161035,2024-06-01,0,
+CUST_0273,Drift Technologies,Manufacturing,SMB,South,Pro,35,23154,2023-06-01,1,2024-05-01
+CUST_0274,Crest Logistics,Retail,Enterprise,West,Enterprise,270,280244,2023-08-01,0,
+CUST_0275,Drift Pvt Ltd,Retail,Mid,West,Basic,120,33032,2024-01-01,0,
+CUST_0276,Apex Industries,Healthcare,SMB,South,Basic,33,9253,2023-08-01,0,
+CUST_0277,Vertex Enterprises,Manufacturing,SMB,West,Basic,25,7339,2024-02-01,0,
+CUST_0278,Nova Solutions,Retail,SMB,East,Pro,29,17723,2024-10-01,0,
+CUST_0279,Vega Industries,Manufacturing,SMB,South,Basic,24,7553,2024-09-01,0,
+CUST_0280,Crest Labs,EdTech,Mid,East,Pro,170,109063,2024-10-01,0,
+CUST_0281,Bharat Enterprises,Manufacturing,SMB,North,Basic,33,9331,2024-10-01,1,2025-01-01
+CUST_0282,Acme Technologies,Manufacturing,SMB,North,Basic,13,3418,2024-11-01,0,
+CUST_0283,Zenith Systems,IT Services,Enterprise,South,Pro,243,154890,2024-06-01,0,
+CUST_0284,Zenith Networks,Logistics,Mid,West,Basic,124,42173,2024-05-01,0,
+CUST_0285,Vertex Networks,EdTech,SMB,West,Basic,48,12509,2023-09-01,1,2024-04-01
+CUST_0286,Nova Retail,IT Services,Mid,East,Pro,99,55098,2024-09-01,0,
+CUST_0287,Stellar Pvt Ltd,Logistics,SMB,West,Pro,30,16172,2024-03-01,0,
+CUST_0288,Bharat Technologies,Logistics,Mid,West,Basic,116,34423,2023-09-01,0,
+CUST_0289,Orbit Logistics,EdTech,Mid,West,Enterprise,73,84457,2024-08-01,0,
+CUST_0290,Orbit Labs,BFSI,SMB,North,Basic,17,5548,2023-05-01,0,
+CUST_0291,Bharat Solutions,BFSI,SMB,West,Basic,49,14468,2023-07-01,0,
+CUST_0292,Acme Technologies,BFSI,Enterprise,West,Enterprise,459,496081,2023-07-01,0,
+CUST_0293,Vertex Systems,EdTech,SMB,West,Pro,41,22032,2023-05-01,0,
+CUST_0294,Lotus Solutions,Healthcare,SMB,West,Basic,20,6840,2024-02-01,0,
+CUST_0295,Apex Technologies,Healthcare,Enterprise,North,Enterprise,423,451229,2023-06-01,1,2024-04-01
+CUST_0296,Drift Systems,Logistics,Mid,South,Pro,176,120599,2023-10-01,0,
+CUST_0297,Stellar Labs,Logistics,Mid,South,Pro,171,112499,2024-01-01,0,
+CUST_0298,Acme Labs,EdTech,Mid,West,Basic,80,25526,2025-01-01,0,
+CUST_0299,Prime Labs,Healthcare,Enterprise,East,Enterprise,275,341971,2024-11-01,0,
+CUST_0300,Zenith Solutions,EdTech,Mid,West,Pro,141,75114,2024-05-01,0,
+CUST_0301,Quanta Industries,BFSI,SMB,West,Basic,48,15070,2023-02-01,1,2024-02-01
+CUST_0302,Apex Enterprises,Manufacturing,Mid,North,Enterprise,54,59269,2024-04-01,0,
+CUST_0303,Apex Solutions,EdTech,Mid,North,Enterprise,192,211928,2023-10-01,0,
+CUST_0304,Sankalp Systems,IT Services,Enterprise,West,Enterprise,419,444121,2025-01-01,0,
+CUST_0305,Prime Enterprises,IT Services,SMB,South,Basic,44,14397,2024-09-01,0,
+CUST_0306,Apex Networks,EdTech,Enterprise,North,Enterprise,350,393819,2024-08-01,0,
+CUST_0307,Echo0 Retail,IT Services,Mid,West,Pro,121,73889,2024-12-01,0,
+CUST_0308,Acme Pvt Ltd,Healthcare,Mid,North,Basic,111,30935,2023-10-01,0,
+CUST_0309,Nova Retail,Healthcare,Mid,West,Pro,103,58090,2023-10-01,0,
+CUST_0310,Onyx Technologies,IT Services,Enterprise,West,Enterprise,325,435899,2024-12-01,0,
+CUST_0311,Orbit Retail,Manufacturing,Mid,East,Enterprise,114,139810,2024-10-01,0,
+CUST_0312,Zenith Pvt Ltd,Retail,SMB,West,Pro,18,11348,2024-06-01,0,
+CUST_0313,Stellar Logistics,Logistics,Mid,West,Enterprise,126,149586,2024-04-01,0,
+CUST_0314,Nova Industries,BFSI,SMB,West,Pro,49,28917,2024-08-01,0,
+CUST_0315,Zenith Pvt Ltd,Logistics,SMB,East,Pro,31,21226,2024-01-01,0,
+CUST_0316,Crest Technologies,Manufacturing,Mid,West,Pro,51,29746,2024-11-01,0,
+CUST_0317,Lotus Technologies,EdTech,Mid,West,Basic,77,21553,2023-02-01,0,
+CUST_0318,Prime Technologies,IT Services,SMB,West,Basic,29,8743,2023-07-01,1,2023-10-01
+CUST_0319,Bright Systems,IT Services,SMB,North,Basic,42,13743,2024-06-01,0,
+CUST_0320,Echo0 Industries,BFSI,SMB,North,Basic,46,15117,2024-10-01,0,
+CUST_0321,Lotus Technologies,Healthcare,SMB,East,Basic,20,5911,2024-03-01,1,2024-11-01
+CUST_0322,Acme Networks,BFSI,SMB,West,Pro,17,9460,2024-05-01,0,
+CUST_0323,Vega Industries,Retail,Mid,East,Enterprise,58,59203,2024-02-01,0,
+CUST_0324,Crest Labs,EdTech,Enterprise,East,Pro,346,200365,2023-05-01,0,
+CUST_0325,Vega Enterprises,BFSI,SMB,South,Pro,29,16900,2024-08-01,1,2024-10-01
+CUST_0326,Bright Solutions,EdTech,Mid,South,Pro,155,103826,2024-02-01,0,
+CUST_0327,Zenith Systems,EdTech,SMB,West,Pro,48,30735,2024-10-01,0,
+CUST_0328,Indus Technologies,BFSI,Enterprise,North,Basic,458,134186,2023-04-01,0,
+CUST_0329,Vertex Labs,IT Services,SMB,East,Basic,46,14042,2024-12-01,0,
+CUST_0330,Bharat Solutions,EdTech,SMB,East,Basic,44,13368,2023-07-01,0,
+CUST_0331,Nova Technologies,BFSI,Enterprise,South,Enterprise,241,273484,2024-05-01,0,
+CUST_0332,Acme Retail,EdTech,SMB,North,Pro,46,23830,2023-02-01,0,
+CUST_0333,Prime Technologies,IT Services,Mid,West,Pro,196,111976,2023-12-01,0,
+CUST_0334,Prime Solutions,Manufacturing,Mid,South,Pro,166,101383,2023-05-01,0,
+CUST_0335,Indus Networks,EdTech,SMB,South,Enterprise,12,13899,2024-03-01,0,
+CUST_0336,Bright Labs,EdTech,SMB,East,Basic,24,6400,2023-06-01,0,
+CUST_0337,Vega Retail,Retail,SMB,North,Pro,27,18552,2024-02-01,0,
+CUST_0338,Lotus Solutions,Manufacturing,Enterprise,South,Enterprise,478,514085,2024-06-01,0,
+CUST_0339,Echo0 Networks,Retail,SMB,North,Basic,32,9030,2024-02-01,1,2024-07-01
+CUST_0340,Acme Pvt Ltd,Manufacturing,SMB,East,Enterprise,30,36623,2024-08-01,0,
+CUST_0341,Apex Solutions,IT Services,SMB,North,Basic,43,12519,2024-06-01,0,
+CUST_0342,Prime Labs,Healthcare,Mid,South,Pro,69,40097,2023-06-01,1,2024-11-01
+CUST_0343,Vega Systems,Manufacturing,SMB,South,Pro,36,23039,2024-02-01,0,
+CUST_0344,Bharat Systems,Retail,Mid,East,Enterprise,55,61560,2024-03-01,0,
+CUST_0345,Vertex Technologies,IT Services,SMB,West,Basic,41,11571,2023-05-01,0,
+CUST_0346,Prime Logistics,Manufacturing,SMB,South,Basic,36,10775,2024-07-01,0,
+CUST_0347,Pulse Logistics,BFSI,SMB,North,Pro,37,23961,2023-05-01,0,
+CUST_0348,Echo0 Systems,EdTech,SMB,East,Pro,26,14656,2023-09-01,0,
+CUST_0349,Indus Logistics,IT Services,SMB,South,Pro,40,25890,2024-11-01,0,
+CUST_0350,Apex Pvt Ltd,IT Services,SMB,North,Basic,30,9821,2025-01-01,0,
+CUST_0351,Pulse Industries,EdTech,Mid,North,Pro,69,47543,2023-09-01,1,2023-12-01
+CUST_0352,Quanta Labs,Healthcare,SMB,West,Pro,46,24642,2023-09-01,0,
+CUST_0353,Stellar Solutions,IT Services,Mid,South,Enterprise,51,63285,2023-09-01,1,2024-03-01
+CUST_0354,Apex Solutions,Manufacturing,SMB,North,Basic,39,11019,2023-09-01,0,
+CUST_0355,Zenith Networks,Healthcare,SMB,West,Basic,47,12310,2024-12-01,0,
+CUST_0356,Zenith Industries,EdTech,SMB,West,Basic,11,3203,2024-04-01,0,
+CUST_0357,Acme Technologies,Retail,SMB,South,Basic,36,11069,2023-08-01,0,
+CUST_0358,Prime Industries,BFSI,Enterprise,West,Pro,221,129263,2024-11-01,0,
+CUST_0359,Crest Solutions,Healthcare,SMB,South,Pro,19,11586,2024-09-01,0,
+CUST_0360,Quanta Solutions,Healthcare,Mid,East,Pro,129,77868,2024-02-01,0,
+CUST_0361,Stellar Technologies,BFSI,SMB,North,Basic,43,13401,2023-12-01,0,
+CUST_0362,Prime Industries,Logistics,SMB,West,Basic,38,10634,2023-07-01,0,
+CUST_0363,Acme Logistics,Retail,SMB,East,Pro,14,7348,2023-12-01,1,2024-06-01
+CUST_0364,Prime Systems,Healthcare,Enterprise,East,Enterprise,300,407842,2024-08-01,0,
+CUST_0365,Bright Industries,Manufacturing,SMB,North,Basic,32,9276,2025-01-01,0,
+CUST_0366,Nova Enterprises,IT Services,Enterprise,North,Enterprise,301,389486,2024-06-01,0,
+CUST_0367,Orbit Systems,BFSI,SMB,West,Pro,28,19317,2024-06-01,1,2024-12-01
+CUST_0368,Pulse Enterprises,Manufacturing,Enterprise,South,Enterprise,346,448928,2023-10-01,0,
+CUST_0369,Vertex Systems,IT Services,Mid,North,Enterprise,150,164447,2023-10-01,0,
+CUST_0370,Quanta Industries,Healthcare,Mid,South,Pro,137,77152,2025-01-01,0,
+CUST_0371,Acme Retail,Manufacturing,Mid,West,Pro,120,69734,2023-09-01,0,
+CUST_0372,Bharat Labs,Logistics,SMB,South,Basic,22,5830,2023-11-01,1,2024-12-01
+CUST_0373,Sankalp Networks,EdTech,SMB,North,Basic,47,12066,2023-05-01,1,2023-10-01
+CUST_0374,Indus Enterprises,Healthcare,Mid,South,Pro,152,93802,2025-01-01,0,
+CUST_0375,Prime Pvt Ltd,Healthcare,Mid,South,Pro,115,74671,2024-04-01,0,
+CUST_0376,Zenith Labs,IT Services,Enterprise,East,Pro,381,220547,2023-10-01,0,
+CUST_0377,Bharat Labs,Healthcare,SMB,North,Pro,34,20509,2024-09-01,1,2024-12-01
+CUST_0378,Acme Industries,Retail,Enterprise,West,Enterprise,311,378458,2023-09-01,0,
+CUST_0379,Zenith Solutions,Healthcare,SMB,North,Basic,31,10414,2023-10-01,0,
+CUST_0380,Drift Solutions,EdTech,Mid,East,Enterprise,54,73406,2023-06-01,0,
+CUST_0381,Pulse Networks,Retail,Mid,South,Pro,72,39640,2024-01-01,0,
+CUST_0382,Quanta Retail,BFSI,Mid,East,Pro,95,65236,2023-09-01,1,2024-03-01
+CUST_0383,Vega Enterprises,IT Services,Mid,South,Pro,115,77641,2025-01-01,0,
+CUST_0384,Acme Solutions,IT Services,Mid,East,Basic,164,51132,2023-12-01,0,
+CUST_0385,Vertex Systems,IT Services,Mid,South,Enterprise,111,151673,2023-07-01,1,2023-10-01
+CUST_0386,Quanta Technologies,Retail,Mid,West,Pro,96,49718,2023-07-01,0,
+CUST_0387,Stellar Retail,EdTech,Enterprise,West,Enterprise,250,276777,2023-07-01,0,
+CUST_0388,Orbit Enterprises,Logistics,Enterprise,East,Enterprise,387,474088,2023-12-01,0,
+CUST_0389,Bharat Logistics,Manufacturing,SMB,East,Pro,47,32270,2023-05-01,1,2024-03-01
+CUST_0390,Zenith Industries,Manufacturing,SMB,South,Enterprise,26,31400,2023-03-01,0,
+CUST_0391,Pulse Technologies,EdTech,SMB,West,Basic,41,11311,2023-12-01,1,2024-08-01
+CUST_0392,Bright Retail,Manufacturing,Mid,West,Enterprise,136,168246,2023-06-01,1,2023-10-01
+CUST_0393,Zenith Industries,EdTech,Enterprise,South,Enterprise,455,500476,2023-09-01,0,
+CUST_0394,Nova Enterprises,IT Services,SMB,West,Basic,38,11955,2023-11-01,0,
+CUST_0395,Prime Logistics,Healthcare,Enterprise,West,Enterprise,234,242463,2023-08-01,0,
+CUST_0396,Prime Solutions,Manufacturing,Mid,West,Enterprise,149,182936,2024-03-01,0,
+CUST_0397,Lotus Retail,Healthcare,SMB,East,Basic,36,11925,2023-02-01,1,2023-07-01
+CUST_0398,Zenith Pvt Ltd,Manufacturing,Mid,North,Basic,91,23499,2024-06-01,0,
+CUST_0399,Apex Networks,EdTech,Enterprise,East,Enterprise,397,485450,2024-10-01,0,
+CUST_0400,Orbit Labs,IT Services,SMB,West,Pro,16,10885,2023-09-01,0,
+CUST_0401,Stellar Logistics,BFSI,Mid,South,Pro,134,73276,2023-09-01,1,2024-10-01
+CUST_0402,Acme Logistics,BFSI,SMB,West,Basic,36,12228,2023-06-01,0,
+CUST_0403,Prime Industries,Manufacturing,Mid,West,Pro,74,48726,2023-03-01,0,
+CUST_0404,Vertex Labs,Retail,SMB,South,Basic,14,4258,2023-10-01,0,
+CUST_0405,Echo0 Systems,BFSI,SMB,West,Basic,48,13553,2023-04-01,0,
+CUST_0406,Orbit Industries,Logistics,Enterprise,South,Enterprise,238,297649,2023-10-01,1,2024-07-01
+CUST_0407,Vega Systems,Healthcare,Enterprise,East,Pro,225,125743,2024-05-01,0,
+CUST_0408,Onyx Industries,BFSI,SMB,South,Basic,31,9552,2024-06-01,0,
+CUST_0409,Prime Retail,Healthcare,Mid,East,Pro,59,36763,2024-11-01,0,
+CUST_0410,Nova Technologies,Retail,Mid,East,Pro,199,129455,2024-08-01,0,
+CUST_0411,Acme Industries,Logistics,Mid,East,Basic,154,40631,2023-07-01,0,
+CUST_0412,Lotus Systems,IT Services,Enterprise,West,Basic,281,72967,2023-10-01,0,
+CUST_0413,Vega Industries,Retail,Enterprise,North,Pro,203,131472,2024-05-01,0,
+CUST_0414,Crest Technologies,EdTech,SMB,East,Basic,24,6956,2023-05-01,1,2023-11-01
+CUST_0415,Nova Pvt Ltd,EdTech,Mid,North,Pro,128,87634,2024-12-01,0,
+CUST_0416,Acme Labs,EdTech,Mid,West,Pro,171,103853,2024-10-01,0,
+CUST_0417,Bharat Networks,Retail,Enterprise,West,Enterprise,213,272041,2024-08-01,0,
+CUST_0418,Quanta Industries,IT Services,Mid,West,Enterprise,52,65633,2023-06-01,0,
+CUST_0419,Drift Pvt Ltd,Healthcare,Enterprise,North,Enterprise,314,422704,2024-07-01,0,
+CUST_0420,Prime Systems,Retail,Mid,North,Pro,176,95824,2024-01-01,0,
+CUST_0421,Crest Enterprises,EdTech,Mid,South,Pro,128,70973,2023-02-01,0,
+CUST_0422,Lotus Retail,IT Services,SMB,East,Basic,11,3182,2023-02-01,0,
+CUST_0423,Drift Pvt Ltd,Logistics,Mid,East,Enterprise,64,83372,2025-01-01,0,
+CUST_0424,Zenith Systems,Logistics,SMB,North,Basic,17,5128,2024-06-01,0,
+CUST_0425,Prime Technologies,Healthcare,Enterprise,East,Enterprise,369,469973,2023-10-01,0,
+CUST_0426,Bright Systems,IT Services,SMB,South,Basic,19,6110,2023-03-01,1,2024-03-01
+CUST_0427,Stellar Systems,Healthcare,Mid,West,Basic,89,30108,2024-09-01,0,
+CUST_0428,Apex Systems,BFSI,SMB,East,Pro,44,24557,2023-03-01,1,2023-05-01
+CUST_0429,Zenith Retail,Retail,Mid,East,Pro,146,82683,2023-05-01,1,2024-02-01
+CUST_0430,Onyx Labs,EdTech,SMB,West,Pro,19,10418,2024-08-01,0,
+CUST_0431,Prime Retail,BFSI,Mid,North,Pro,148,76825,2023-02-01,0,
+CUST_0432,Sankalp Networks,IT Services,Mid,West,Enterprise,133,154765,2024-02-01,0,
+CUST_0433,Drift Labs,BFSI,Mid,North,Basic,124,36458,2023-04-01,0,
+CUST_0434,Prime Enterprises,Retail,SMB,South,Pro,24,14454,2024-08-01,0,
+CUST_0435,Vega Technologies,Retail,Mid,South,Basic,89,29723,2024-09-01,0,
+CUST_0436,Acme Solutions,IT Services,SMB,West,Basic,43,12741,2023-04-01,1,2024-12-01
+CUST_0437,Sankalp Logistics,Logistics,SMB,South,Pro,27,17769,2024-02-01,0,
+CUST_0438,Bright Technologies,Retail,Mid,North,Enterprise,170,191239,2024-03-01,0,
+CUST_0439,Orbit Enterprises,Logistics,Mid,West,Pro,139,92537,2023-02-01,0,
+CUST_0440,Quanta Retail,Logistics,Mid,West,Pro,52,28844,2023-07-01,0,
+CUST_0441,Indus Networks,Retail,SMB,North,Basic,24,7901,2024-11-01,0,
+CUST_0442,Vega Technologies,BFSI,SMB,East,Basic,16,4787,2023-05-01,1,2024-11-01
+CUST_0443,Prime Networks,Healthcare,SMB,North,Pro,10,5301,2023-06-01,0,
+CUST_0444,Orbit Technologies,Healthcare,Mid,West,Enterprise,159,187720,2023-05-01,0,
+CUST_0445,Lotus Industries,IT Services,SMB,West,Basic,32,10298,2024-09-01,0,
+CUST_0446,Pulse Technologies,Retail,Mid,North,Pro,183,105004,2023-11-01,0,
+CUST_0447,Stellar Systems,Manufacturing,Enterprise,South,Enterprise,206,247432,2024-11-01,0,
+CUST_0448,Stellar Labs,BFSI,Enterprise,North,Enterprise,276,355876,2024-11-01,0,
+CUST_0449,Quanta Labs,Logistics,Mid,North,Pro,166,88172,2024-06-01,1,2024-09-01
+CUST_0450,Indus Networks,EdTech,Mid,South,Pro,68,41306,2024-06-01,1,2024-11-01
+CUST_0451,Sankalp Industries,BFSI,SMB,East,Basic,45,12333,2023-12-01,0,
+CUST_0452,Quanta Enterprises,BFSI,SMB,North,Basic,28,9028,2025-01-01,0,
+CUST_0453,Acme Solutions,Logistics,SMB,East,Pro,28,16355,2023-11-01,1,2024-04-01
+CUST_0454,Onyx Technologies,Manufacturing,Mid,West,Pro,179,108447,2024-02-01,0,
+CUST_0455,Lotus Labs,Logistics,Enterprise,North,Pro,495,314113,2023-08-01,0,
+CUST_0456,Prime Enterprises,EdTech,Mid,North,Pro,108,63230,2024-06-01,0,
+CUST_0457,Stellar Pvt Ltd,Retail,SMB,North,Pro,38,24090,2024-05-01,1,2025-01-01
+CUST_0458,Stellar Industries,IT Services,Mid,North,Pro,130,69280,2024-11-01,0,
+CUST_0459,Sankalp Enterprises,Logistics,SMB,East,Basic,11,3284,2023-12-01,1,2024-12-01
+CUST_0460,Vega Enterprises,Healthcare,SMB,East,Basic,11,3673,2024-01-01,1,2025-01-01
+CUST_0461,Drift Networks,Manufacturing,SMB,East,Basic,27,8838,2024-04-01,0,
+CUST_0462,Drift Networks,BFSI,SMB,East,Basic,23,6007,2023-05-01,1,2024-03-01
+CUST_0463,Zenith Pvt Ltd,BFSI,Enterprise,West,Enterprise,435,575608,2023-10-01,0,
+CUST_0464,Lotus Industries,Logistics,SMB,West,Basic,17,5173,2024-05-01,1,2024-09-01
+CUST_0465,Stellar Systems,Manufacturing,SMB,South,Basic,46,14682,2023-08-01,1,2023-10-01
+CUST_0466,Bright Labs,Manufacturing,Enterprise,South,Enterprise,415,488014,2023-05-01,0,
+CUST_0467,Onyx Pvt Ltd,EdTech,Mid,North,Pro,126,80507,2024-11-01,0,
+CUST_0468,Indus Technologies,Logistics,SMB,South,Basic,11,3703,2024-01-01,1,2024-04-01
+CUST_0469,Vertex Enterprises,BFSI,SMB,East,Basic,35,11944,2024-06-01,0,
+CUST_0470,Sankalp Retail,BFSI,Enterprise,South,Pro,422,255381,2024-10-01,0,
+CUST_0471,Vertex Pvt Ltd,Healthcare,SMB,South,Pro,24,14233,2024-12-01,0,
+CUST_0472,Vertex Labs,EdTech,Mid,East,Pro,78,46294,2024-11-01,0,
+CUST_0473,Sankalp Pvt Ltd,BFSI,Mid,North,Enterprise,170,221366,2025-01-01,0,
+CUST_0474,Acme Systems,Manufacturing,SMB,West,Pro,22,14565,2023-12-01,0,
+CUST_0475,Apex Logistics,BFSI,Enterprise,East,Enterprise,227,258232,2023-11-01,0,
+CUST_0476,Echo0 Systems,EdTech,SMB,South,Basic,22,5654,2024-10-01,1,2024-12-01
+CUST_0477,Crest Technologies,Healthcare,SMB,West,Basic,44,11287,2025-01-01,0,
+CUST_0478,Echo0 Enterprises,Healthcare,SMB,North,Pro,44,25725,2023-11-01,0,
+CUST_0479,Drift Logistics,BFSI,Mid,West,Pro,69,43975,2023-12-01,1,2024-04-01
+CUST_0480,Echo0 Labs,Healthcare,SMB,South,Basic,43,13007,2023-06-01,1,2024-01-01
+CUST_0481,Indus Solutions,EdTech,Mid,East,Pro,163,110707,2024-03-01,0,
+CUST_0482,Stellar Systems,Logistics,Enterprise,South,Pro,275,165017,2023-10-01,0,
+CUST_0483,Crest Technologies,Manufacturing,SMB,South,Basic,16,4338,2024-01-01,1,2024-03-01
+CUST_0484,Vega Pvt Ltd,IT Services,SMB,West,Pro,29,14920,2023-12-01,0,
+CUST_0485,Lotus Solutions,Manufacturing,Enterprise,North,Enterprise,331,451243,2024-02-01,0,
+CUST_0486,Quanta Systems,Healthcare,SMB,West,Basic,45,14474,2024-01-01,1,2025-01-01
+CUST_0487,Onyx Industries,Manufacturing,SMB,East,Basic,35,10836,2024-09-01,1,2024-11-01
+CUST_0488,Apex Logistics,Healthcare,Enterprise,North,Enterprise,355,398717,2023-10-01,0,
+CUST_0489,Sankalp Retail,Healthcare,Enterprise,East,Enterprise,439,545605,2024-04-01,0,
+CUST_0490,Sankalp Solutions,Logistics,SMB,East,Pro,21,13932,2024-08-01,0,
+CUST_0491,Bright Retail,BFSI,SMB,North,Basic,43,11178,2025-01-01,0,
+CUST_0492,Bharat Pvt Ltd,BFSI,Mid,West,Enterprise,87,119050,2023-09-01,0,
+CUST_0493,Pulse Technologies,Healthcare,SMB,North,Basic,17,4366,2023-11-01,0,
+CUST_0494,Vertex Pvt Ltd,BFSI,SMB,West,Basic,45,14751,2024-07-01,0,
+CUST_0495,Orbit Systems,Logistics,SMB,West,Pro,11,7009,2024-03-01,1,2024-07-01
+CUST_0496,Prime Technologies,BFSI,SMB,East,Pro,33,18455,2024-12-01,0,
+CUST_0497,Crest Logistics,Healthcare,SMB,West,Basic,43,13770,2024-05-01,0,
+CUST_0498,Lotus Technologies,Retail,Mid,West,Pro,156,94667,2023-08-01,0,
+CUST_0499,Bharat Systems,EdTech,SMB,West,Basic,36,10705,2023-10-01,1,2024-03-01
+CUST_0500,Nova Enterprises,IT Services,SMB,West,Pro,44,23416,2023-08-01,1,2024-09-01

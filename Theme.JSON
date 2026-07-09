@@ -1,0 +1,94 @@
+{
+    "name": "SaaS Customer Health", 
+    "dataColors": [
+        "#2A9D8F",
+        "#E63946",
+        "#F4A261", 
+        "#2E5BFF",
+        "#264653",
+        "#8AB17D", 
+        "#E9C46A",
+        "#6C757D"
+    ],
+    "foreground": "#1F2937", 
+    "foregroundNeutralSecondary": "#4B5563",
+    "foregroundNeutralTertiary": "#9CA3AF",
+    "background": "#FFFFFF", 
+    "backgroundLight": "#F5F7FA", 
+    "backgroundNeutral": "#E5E9F0", 
+    "tableAccent": "#2E5BFF",
+    "good": "#2A9D8F", 
+    "neutral": "#F4A261", 
+    "bad": "#E63946",
+    "maximum": "#2A9D8F",
+    "center": "#F4A261",
+    "minimum": "#E63946", 
+    "null": "#9CA3AF", 
+    "textClasses": {
+        "title": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 14, 
+            "color": "#1F2937"
+        },
+        "header":{
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 12, 
+            "color": "#1F2937"        
+        },
+        "label":{
+            "fontFace": "Segoe UI",
+            "fontSize": 10, 
+            "color": "#4B5563"
+        },
+        "callout":{
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 34, 
+            "color": "#1F2937"
+        }
+    },
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#E5E9F0" } }, "radius": 8 }],
+                "dropshadow": [{ "show": true, "color": { "solid": { "color": "#000000" } }, "transparency": 90, "blur": 6, "angle": 90, "shadowSpread": 1 }], 
+                "title": [{ "show": true, "fontColor": { "solid": { "color": "#1F2937" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 13, "alignment": "left" }],
+                "visualHeader": [{ "show": false }]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [{ "color": { "solid" : { "color": "#F5F7FA" } }, "transparency": 0 }],
+                "outspace": [{ "color": { "solid" : { "color": "#F5F7FA" } }, "transparency": 0 }]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [{ "color": { "solid" : { "color": "#1F2937" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 32 }],
+                "categoryLabels": [{ "color": { "solid" : { "color": "#6C757D" } }, "fontFamily": "Segoe UI", "fontSize": 11 }],
+                "background": [{ "show": true, "color": { "solid" : {"color": "#FFFFFF" } } }],
+                "border": [{ "show": true, "color": { "solid" : { "color": "#E5E9F0" } }, "radius": 8 }]
+            }
+        },
+        "slicer": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid" : { "color": "#FFFFFF" } } }],
+                "header": [{ "show": true, "fontColor": { "solid" : { "color": "#1F2937" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 11 }],
+                "items": [{"fontColor": { "solid" : { "color": "#4B5563" } }, "fontFamily": "Segoe UI", "fontSize": 10 }]
+            }
+        },
+        "tableEx": {
+            "*": {
+                "grid": [{ "gridVertical": false, "gridHorizontal": true, "gridHorizontalColor": { "solid" : { "color": "#E5E9F0" } }, "rowPadding": 4 }],
+                "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#2E5BFF" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 10 }],
+                "values": [{"fontColorPrimary": { "solid": { "color": "#1F2937" } }, "backColorPrimary": { "solid": { "color": "#FFFFFF" } }, "backColorSecondary": { "solid": { "color": "#F5F7FA" } }, "fontSize":10 }]
+            }
+        },
+        "pivotTable": {
+            "*": {
+                "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#2E5BFF" } }, "fontFamily": "Segoe UI Semibold" }],
+                "values":[{ "fontColorPrimary": { "solid": { "color": "#1F2937" } } }]
+            }
+        }
+    }
+}   

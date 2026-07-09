@@ -1,0 +1,4 @@
+feature,coefficient,abs_importance,direction
+seat_utilization,-0.511,0.511,decreases churn
+avg_resolution_hours,0.387,0.387,increases churn
+avg_payment_delay,0.224,0.224,increases churn
